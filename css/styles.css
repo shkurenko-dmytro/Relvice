@@ -122,7 +122,7 @@ body {
   .title-content__header {
     flex-direction: column;
     background-color: #FAFAFA;
-    box-shadow: 0 0 190px #FF7B47;
+    box-shadow: 0 0 190px rgb(13, 92, 99);
   }
   .title-content__menu {
     flex-direction: column;
